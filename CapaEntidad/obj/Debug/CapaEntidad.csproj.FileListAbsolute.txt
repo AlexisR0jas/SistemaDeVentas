@@ -1,0 +1,6 @@
+C:\Users\Alexi\github\SistemaDeVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Alexi\github\SistemaDeVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Alexi\github\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Alexi\github\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Alexi\github\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Alexi\github\SistemaDeVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb

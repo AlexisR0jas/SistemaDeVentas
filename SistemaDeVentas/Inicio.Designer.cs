@@ -58,7 +58,7 @@
             this.menuAcercaDe});
             this.menu.Location = new System.Drawing.Point(0, 78);
             this.menu.Name = "menu";
-            this.menu.Size = new System.Drawing.Size(982, 78);
+            this.menu.Size = new System.Drawing.Size(1182, 78);
             this.menu.TabIndex = 0;
             this.menu.Text = "menuStrip1";
             // 
@@ -84,7 +84,7 @@
             this.menuMantenedor.IconSize = 50;
             this.menuMantenedor.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.menuMantenedor.Name = "menuMantenedor";
-            this.menuMantenedor.Size = new System.Drawing.Size(90, 74);
+            this.menuMantenedor.Size = new System.Drawing.Size(110, 74);
             this.menuMantenedor.Text = "Mantenedor";
             this.menuMantenedor.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             // 
@@ -136,7 +136,7 @@
             this.menuProveedores.IconSize = 50;
             this.menuProveedores.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.menuProveedores.Name = "menuProveedores";
-            this.menuProveedores.Size = new System.Drawing.Size(90, 74);
+            this.menuProveedores.Size = new System.Drawing.Size(110, 74);
             this.menuProveedores.Text = "Proveedores";
             this.menuProveedores.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             // 
@@ -162,7 +162,7 @@
             this.menuAcercaDe.IconSize = 50;
             this.menuAcercaDe.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.menuAcercaDe.Name = "menuAcercaDe";
-            this.menuAcercaDe.Size = new System.Drawing.Size(80, 74);
+            this.menuAcercaDe.Size = new System.Drawing.Size(90, 74);
             this.menuAcercaDe.Text = "Acerca de";
             this.menuAcercaDe.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             // 
@@ -174,7 +174,7 @@
             this.menuTitulo.Location = new System.Drawing.Point(0, 0);
             this.menuTitulo.Name = "menuTitulo";
             this.menuTitulo.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.menuTitulo.Size = new System.Drawing.Size(982, 78);
+            this.menuTitulo.Size = new System.Drawing.Size(1182, 78);
             this.menuTitulo.TabIndex = 1;
             this.menuTitulo.Text = "menuStrip2";
             this.menuTitulo.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip2_ItemClicked);
@@ -196,20 +196,21 @@
             this.Contenedor.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Contenedor.Location = new System.Drawing.Point(0, 156);
             this.Contenedor.Name = "Contenedor";
-            this.Contenedor.Size = new System.Drawing.Size(982, 397);
+            this.Contenedor.Size = new System.Drawing.Size(1182, 597);
             this.Contenedor.TabIndex = 3;
             // 
             // Inicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(982, 553);
+            this.ClientSize = new System.Drawing.Size(1182, 753);
             this.Controls.Add(this.Contenedor);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menu);
             this.Controls.Add(this.menuTitulo);
             this.MainMenuStrip = this.menu;
             this.Name = "Inicio";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.menu.ResumeLayout(false);
             this.menu.PerformLayout();

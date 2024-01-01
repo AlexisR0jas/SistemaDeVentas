@@ -1,0 +1,9 @@
+C:\Users\Alexi\github\SistemaDeVentas\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Alexi\github\SistemaDeVentas\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Alexi\github\SistemaDeVentas\CapaDeDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Alexi\github\SistemaDeVentas\CapaDeDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Alexi\github\SistemaDeVentas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\Alexi\github\SistemaDeVentas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Alexi\github\SistemaDeVentas\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Users\Alexi\github\SistemaDeVentas\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Alexi\github\SistemaDeVentas\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
